@@ -1,0 +1,25 @@
+{
+  "name": "trezy.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "scss-build": "grunt"
+  },
+  "dependencies": {
+    "fuse.js": "^2.6.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-sass-globbing": "^1.5.1",
+    "load-grunt-config": "^0.19.2",
+    "marked": "^0.3.6",
+    "moment": "^2.17.1",
+    "next": "2.0.0-beta.32",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "time-grunt": "^1.4.0"
+  }
+}

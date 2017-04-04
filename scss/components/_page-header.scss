@@ -1,0 +1,11 @@
+.page-header {
+  border-bottom-color: $lightgrey;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  margin: 0 1rem 2rem;
+  padding: 0 1rem;
+
+  h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+  }
+}

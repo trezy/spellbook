@@ -1,0 +1,78 @@
+[role=banner] {
+  align-items: stretch;
+  background-color: $black;
+  color: $white;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  justify-content: space-between;
+  min-width: 15rem;
+
+  nav {
+    overflow: auto;
+
+    a {
+      color: currentColor;
+      display: block;
+
+      &.active,
+      &:hover {
+        background-color: $white;
+        color: $black;
+      }
+    }
+
+    .site {
+      flex-direction: column;
+
+      a {
+        padding: 2rem;
+        position: relative;
+        text-decoration: none;
+        transition: all 0.2s;
+
+        &:after {
+          background-color: $black;
+          bottom: 0;
+          content: '';
+          display: block;
+          opacity: 0;
+          position: absolute;
+          right: 0;
+          top: 0;
+          transition: all 0.5s;
+          width: 2px;
+          z-index: 0;
+        }
+
+        &.active,
+        &:hover {
+          text-indent: 2rem;
+
+          &:after {
+            bottom: 1rem;
+            opacity: 1;
+            top: 1rem;
+          }
+        }
+      }
+    }
+
+    .social {
+      align-content: stretch;
+      display: flex;
+      flex-direction: row;
+      margin: 0;
+
+      li {
+        flex-grow: 1;
+      }
+
+      a {
+        min-width: 100%;
+        padding: 2rem;
+        text-align: center;
+      }
+    }
+  }
+}

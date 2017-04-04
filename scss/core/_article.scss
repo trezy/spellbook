@@ -1,0 +1,19 @@
+article {
+  header {
+    flex-wrap: wrap;
+
+    small {
+      color: $grey;
+
+      &:after {
+        content: '|';
+        display: inline-block;
+        margin: 0 2rem;
+      }
+
+      &:last-child:after {
+        display: none;
+      }
+    }
+  }
+}

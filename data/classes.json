@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Barbarian",
+    "slug": "barbarian"
+  },
+  {
+    "name": "Bard",
+    "slug": "bard"
+  },
+  {
+    "name": "Cleric",
+    "slug": "cleric"
+  },
+  {
+    "name": "Druid",
+    "slug": "druid"
+  },
+  {
+    "name": "Fighter",
+    "slug": "fighter"
+  },
+  {
+    "name": "Monk",
+    "slug": "monk"
+  },
+  {
+    "name": "Paladin",
+    "slug": "paladin"
+  },
+  {
+    "name": "Ranger",
+    "slug": "ranger"
+  },
+  {
+    "name": "Rogue",
+    "slug": "rogue"
+  },
+  {
+    "name": "Sorcerer",
+    "slug": "sorcerer"
+  },
+  {
+    "name": "Warlock",
+    "slug": "warlock"
+  },
+  {
+    "name": "Wizard",
+    "slug": "wizard"
+  }
+]

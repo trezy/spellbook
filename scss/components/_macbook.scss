@@ -1,0 +1,53 @@
+.macbook {
+  &.frame {
+    align-content: stretch;
+    align-items: stretch;
+    background-image: url(/static/images/device-templates/macbook.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+
+    &.small {
+      height: 102.8px;
+      padding-bottom: 15px;
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-top: 7px;
+      width: 201.3px;
+
+//      iframe {
+//        height: 800px;
+//        width: 1280px;
+//      }
+
+      .content {
+        min-height: 805px;
+        min-width: 1510px;
+        transform: scale(0.1);
+      }
+    }
+
+    &.medium {
+      height: 205.59px;
+      padding-bottom: 30px;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 14px;
+      width: 402.59px;
+
+      .content {
+        transform: scale(0.2);
+      }
+    }
+
+    &.large {
+    }
+  }
+
+  &.content {
+    background-color: $white;
+    flex-grow: 1;
+    overflow: hidden;
+    transform-origin: 0 0;
+  }
+}

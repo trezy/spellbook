@@ -1,0 +1,37 @@
+// Blacks
+$black: #1a1a1a;
+
+// Blues
+$blue: hsla(194, 100, 77, 1);
+$darkblue: hsla(193, 100, 25, 1);
+$lightblue: hsla(192, 100, 89, 1);
+
+// Fuschias
+$fuchsia: hsla(300, 100%, 70%, 1);
+$lightfuchsia: hsla(300, 100%, 90%, 1);
+$darkfuchsia: hsla(300, 100%, 50%, 1);
+
+// Greens
+$green: green;
+$lightgreen: lighten($green, 10%);
+$darkgreen: darken($green, 10%);
+
+// Greys
+$grey: grey;
+$lightgrey: dimgrey;
+$darkgrey: darken($grey, 10%);
+
+// Reds
+$red: red;
+
+// Whites
+$white: white;
+
+
+
+
+
+// Primary colors
+$color60: #CAD0ED;
+$color30: #525787;
+$color10: #FE4B5F;

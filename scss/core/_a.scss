@@ -1,0 +1,8 @@
+a {
+  color: $darkblue;
+  transition: all 0.2s;
+
+  &:hover {
+    color: $red;
+  }
+}

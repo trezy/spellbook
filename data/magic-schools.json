@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Abjuration",
+    "slug": "abjuration"
+  },
+  {
+    "name": "Conjuration",
+    "slug": "conjuration"
+  },
+  {
+    "name": "Divination",
+    "slug": "divination"
+  },
+  {
+    "name": "Enchantment",
+    "slug": "enchantment"
+  },
+  {
+    "name": "Evocation",
+    "slug": "evocation"
+  },
+  {
+    "name": "Illusion",
+    "slug": "illusion"
+  },
+  {
+    "name": "Necromancy",
+    "slug": "necromancy"
+  },
+  {
+    "name": "Transmutation",
+    "slug": "transmutation"
+  }
+]

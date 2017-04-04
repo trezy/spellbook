@@ -1,0 +1,45 @@
+.iphone {
+  &.frame {
+    align-content: stretch;
+    align-items: stretch;
+    background-image: url(/static/images/device-templates/iphone.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    height: 1680px;
+    width: 830px;
+
+    &.small {
+      height: 84px;
+      padding-bottom: 9px;
+      padding-left: 2px;
+      padding-right: 2px;
+      padding-top: 9px;
+      width: 41.5px;
+
+      .content {
+        min-height: 1310px;
+        min-width: 750px;
+        transform: scale(0.05);
+      }
+    }
+
+    &.medium {
+      zoom: 0.1;
+    }
+
+    &.large {
+      zoom: 0.14;
+    }
+  }
+
+  &.content {
+    background-color: $white;
+    flex-grow: 1;
+//    height: 1305px;
+    overflow: hidden;
+//    width: 745px;
+    transform-origin: 0 0;
+  }
+}

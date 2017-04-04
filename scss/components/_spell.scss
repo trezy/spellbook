@@ -1,0 +1,31 @@
+.spell {
+  margin-bottom: 4rem;
+
+  h4 {
+    font-size: 2em;
+
+    small {
+      color: grey;
+      font-size: 0.7em;
+      font-weight: 100;
+      margin-left: 1rem;
+    }
+  }
+
+  .deets {
+    border-color: black;
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    display: flex;
+
+    dt {
+      font-weight: 500;
+      margin-right: 1rem;
+    }
+
+    dd {
+      margin-right: 4rem;
+    }
+  }
+}

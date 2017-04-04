@@ -1,0 +1,11 @@
+main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin: 0 auto;
+  overflow: auto;
+//  padding-left: calc((100vw - 1000px) / 2);
+//  padding-right: calc((100vw - 1000px) / 2);
+  padding-top: 2rem;
+}

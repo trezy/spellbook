@@ -1,0 +1,34 @@
+.ipad {
+  &.frame {
+    align-items: stretch;
+    background-image: url(/static/images/device-templates/ipad.png);
+    background-repeat: no-repeat;
+    display: flex;
+    height: 1291px;
+    padding-bottom: 155px;
+    padding-left: 40px;
+    padding-right: 43px;
+    padding-top: 141px;
+    width: 833px;
+
+    &.small {
+      zoom: 0.09;
+    }
+
+    &.medium {
+      zoom: 0.17;
+    }
+
+    &.large {
+      zoom: 0.25;
+    }
+  }
+
+  &.content {
+    background-color: $white;
+    flex-grow: 1;
+    height: 995px;
+    overflow: hidden;
+    width: 750px;
+  }
+}

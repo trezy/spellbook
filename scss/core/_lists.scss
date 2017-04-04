@@ -1,0 +1,7 @@
+dl, ol, ul {
+  margin: 0 2rem 2rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

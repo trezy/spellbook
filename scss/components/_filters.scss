@@ -1,0 +1,27 @@
+.filters {
+  display: flex;
+  flex-direction: column;
+
+  > * {
+    flex-shrink: 0;
+  }
+
+  ul {
+    background-color: skyblue;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  label {
+    display: block;
+    padding: 1rem 2rem;
+
+    &:hover {
+      background-color: rgba(white, 0.6);
+    }
+  }
+
+  input[type=checkbox]:checked + label {
+    background-color: rgba(white, 0.4);
+  }
+}

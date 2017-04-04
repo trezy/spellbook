@@ -1,0 +1,27 @@
+.portfolio {
+  align-items: flex-end;
+  border-bottom-color: $black;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  display: flex;
+  flex-shrink: 0;
+  margin-top: 2rem;
+  overflow: hidden;
+  padding: 0;
+
+  li {
+    flex-shrink: 0;
+    margin-right: 2rem;
+    overflow: visible;
+    transform: translateY(10%);
+    transition: all 0.2s;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &:hover {
+      transform: translateY(0);
+    }
+  }
+}

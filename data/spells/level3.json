@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Animate Dead",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Aura of Vitality",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "paladin"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Beacon of Hope",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Bestow Curse",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Blinding Smite",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "paladin"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Blink",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Call Lightning",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "druid"
+    ],
+    "level": 3
+
+  },
+  {
+    "name": "Clairvoyance",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Conjure Animals",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Conjure Barrage",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "ranger"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Counterspell",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Create Food and Water",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "paladin"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Crusader's Mantle",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "Paladin"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Daylight",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "druid",
+      "paladin",
+      "ranger",
+      "sorcerer"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Dispel Magic",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "druid",
+      "paladin",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Elemental Weapon",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "paladin"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Fear",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Feign Death",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "druid",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Fireball",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Fly",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Gaseous Form",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Glyph of Warding",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Haste",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Hunger of Hadar",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "warlock"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Hypnotic Pattern",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Leomund's Tiny Hut",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Lightning Arrow",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "ranger"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Lightning Bolt",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Magic Circle",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "paladin",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Major Image",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Mass Healing Word",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Meld into Stone",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "druid"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Nondetection",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "ranger",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Phantom Steed",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Plant Growth",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "druid",
+      "ranger"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Protection from Energy",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "druid",
+      "ranger",
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Remove Curse",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "paladin",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Revivify",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "paladin"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Sending",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Sleet Storm",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "druid",
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Slow",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Speak with Dead",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Speak with Plants",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "druid",
+      "ranger"
+    ],
+    "level": 3
+
+  },
+  {
+    "name": "Spirit Guardians",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Stinking Cloud",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Tongues",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "bard",
+      "cleric",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Vampiric Touch",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Water Breathing",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "druid",
+      "ranger",
+      "sorcerer",
+      "wizard"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Water Walk",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "cleric",
+      "druid",
+      "ranger",
+      "sorcerer"
+    ],
+    "level": 3
+  },
+  {
+    "name": "Wind Wall",
+    "description": "kjhsdfjhasdflkjhasdflkjhasdlkfjh",
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "level": 3
+  }
+]
