@@ -44,3 +44,11 @@ I recommend using [Yarn](https://yarnpkg.com/en/) since I try to keep the `yarn.
   # or
   npm run dev
   ```
+
+If you're doing styling shanges, you'll want to run the `scss-build` script to keep your styles up-to-date:
+
+```shell
+yarn run scss-build
+# or
+npm run scss-build
+```
