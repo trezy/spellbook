@@ -1,4 +1,4 @@
-## Contributing to Eidetica
+## Contributing to the spellbook
 
 You want to contribute to the project? Awesome!
 
