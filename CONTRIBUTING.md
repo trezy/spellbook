@@ -1,4 +1,4 @@
-## Contributing to the spellbook
+## Contributing to Spellbook
 
 You want to contribute to the project? Awesome!
 
@@ -29,26 +29,23 @@ I recommend using [Yarn](https://yarnpkg.com/en/) since I try to keep the `yarn.
 
 1. Clone the repo
   ```
-  git clone git@github.com:trezy/spellbook.git
-  cd eidetica
+  git clone git@github.com:your-username/dnd.git
   ```
-1. Install dependencies
+2. Install dependencies
   ```shell
   yarn install
   # or
   npm install
   ```
-1. Run the app
+3. If you're doing styling changes, you'll want to run the `scss-build` script in the background to keep your styles up-to-date:
+  ```shell
+  yarn run scss-build
+  # or
+  npm run scss-build
+  ```
+4. Run the app
   ```shell
   yarn run dev
   # or
   npm run dev
   ```
-
-If you're doing styling shanges, you'll want to run the `scss-build` script to keep your styles up-to-date:
-
-```shell
-yarn run scss-build
-# or
-npm run scss-build
-```
