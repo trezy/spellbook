@@ -29,7 +29,7 @@ I recommend using [Yarn](https://yarnpkg.com/en/) since I try to keep the `yarn.
 
 1. Clone the repo
   ```
-  git clone git@github.com:trezy/dnd.git
+  git clone git@github.com:trezy/spellbook.git
   cd eidetica
   ```
 1. Install dependencies
